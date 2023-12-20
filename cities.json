@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Istanbul",
+    "population": 15460000.0
+  },
+  {
+    "name": "Ankara",
+    "population": 5639076.0
+  },
+  {
+    "name": "Izmir",
+    "population": 4367336.0
+  },
+  {
+    "name": "Bursa",
+    "population": 2936803.0
+  },
+  {
+    "name": "Antalya",
+    "population": 2511700.0
+  },
+  {
+    "name": "Adana",
+    "population": 2220125.0
+  },
+  {
+    "name": "Konya",
+    "population": 2220000.0
+  },
+  {
+    "name": "Gaziantep",
+    "population": 2005519.0
+  },
+  {
+    "name": "Mersin",
+    "population": 1730393.0
+  },
+  {
+    "name": "Diyarbakir",
+    "population": 1664133.0
+  },
+  {
+    "name": "Kayseri",
+    "population": 1446964.0
+  },
+  {
+    "name": "Eskisehir",
+    "population": 878949.0
+  },
+  {
+    "name": "Sanliurfa",
+    "population": 1931836.0
+  },
+  {
+    "name": "Samsun",
+    "population": 1330105.0
+  },
+  {
+    "name": "Malatya",
+    "population": 827331.0
+  },
+  {
+    "name": "Denizli",
+    "population": 1045834.0
+  },
+  {
+    "name": "Isparta",
+    "population": 448262.0
+  },
+  {
+    "name": "Trabzon",
+    "population": 810536.0
+  },
+  {
+    "name": "Erzurum",
+    "population": 767848.0
+  },
+  {
+    "name": "Van",
+    "population": 611373.0
+  },
+  {
+    "name": "Balikesir",
+    "population": 1283275.0
+  },
+  {
+    "name": "Sivas",
+    "population": 639716.0
+  },
+  {
+    "name": "Kahramanmaras",
+    "population": 1241065.0
+  },
+  {
+    "name": "Antakya",
+    "population": 222452.0
+  },
+  {
+    "name": "Aydin",
+    "population": 1053506.0
+  },
+  {
+    "name": "Afyonkarahisar",
+    "population": 715693.0
+  },
+  {
+    "name": "Tekirdag",
+    "population": 937910.0
+  },
+  {
+    "name": "Eregli",
+    "population": 170741.0
+  },
+  {
+    "name": "Mugla",
+    "population": 938456.0
+  },
+  {
+    "name": "Kutahya",
+    "population": 571463.0
+  }
+]
